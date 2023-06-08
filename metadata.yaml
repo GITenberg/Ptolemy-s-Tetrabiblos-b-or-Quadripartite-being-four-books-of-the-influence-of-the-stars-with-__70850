@@ -1,0 +1,54 @@
+_repo: Ptolemy-s-Tetrabiblos-b-or-Quadripartite-being-four-books-of-the-influence-of-the-stars-with-__70850
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Proclus
+    aliases:
+    - Proclus Diadochus
+    - Proclus Lycius
+    - Πρόκλος Διάδοχος
+    birthdate: 412
+    deathdate: 485
+    gutenberg_agent_id: '55965'
+    url: http://www.gutenberg.org/2009/agents/55965
+    wikipedia: https://en.wikipedia.org/wiki/Proclus
+  other_contributor:
+    agent_name: Ranger, Philip, active 1615-1631
+    alias: Ranger, Phillip
+    gutenberg_agent_id: '55966'
+    url: http://www.gutenberg.org/2009/agents/55966
+  translator:
+    agent_name: Ashmand, J. M.
+    gutenberg_agent_id: '55956'
+    url: http://www.gutenberg.org/2009/agents/55956
+creator:
+  author:
+    agent_name: Ptolemy
+    alias: Ptolemy, Claudius
+    gutenberg_agent_id: '55955'
+    url: http://www.gutenberg.org/2009/agents/55955
+    wikipedia: https://en.wikipedia.org/wiki/Ptolemy
+description: ''
+gutenberg_issued: '2023-05-24'
+identifiers:
+  gutenberg: '70850'
+language: en
+pgterms:marc904: https://archive.org/details/ptolemystetrabib00ptol
+pgterms:marc905: 20200901095654ptolemy
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bW. Foulsham & Co. Ltd, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astrology -- Early works to 1800'
+- !lcc 'BF'
+- GITenberg
+title: 'Ptolemy''s Tetrabiblos : $b or Quadripartite, being four books of the influence
+  of the stars ... with a preface, explanatory notes, and an appendix containing extracts
+  from the Almagest of Ptolemy and the whole of his Centiloquy, together with a short
+  notice of Mr. Ranger''s zodiacal planisphere and an explanatory plate'
+url: http://www.gutenberg.org/ebooks/70850
