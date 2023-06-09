@@ -21,6 +21,9 @@ contributor:
     agent_name: Ashmand, J. M.
     gutenberg_agent_id: '55956'
     url: http://www.gutenberg.org/2009/agents/55956
+covers:
+- cover_type: archival
+  image_path: 70850-h/images/cover.jpg
 creator:
   author:
     agent_name: Ptolemy
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55955
     wikipedia: https://en.wikipedia.org/wiki/Ptolemy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70850#Ptolemy-s-Tetrabiblos-b-or-Quadripartite-being-four-books-of-the-influence-of-the-stars-with-_
 gutenberg_issued: '2023-05-24'
 identifiers:
   gutenberg: '70850'
